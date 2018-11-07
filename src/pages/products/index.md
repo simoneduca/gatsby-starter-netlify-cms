@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: DWP Jobs
+title: DWP Jobs - APPLY!
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
